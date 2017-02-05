@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="city" table="x_85861_marketing_marketing_event" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Dallas</label>
+            <language>en</language>
+            <name>x_85861_marketing_marketing_event</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-08 18:33:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e9de5c8c0f103200bd3588cce1050ece</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:05:29</sys_updated_on>
+            <value>Dallas</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kansas City</label>
+            <language>en</language>
+            <name>x_85861_marketing_marketing_event</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-08 18:33:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>65de5c8c0f103200bd3588cce1050ecf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:05:36</sys_updated_on>
+            <value>Kansas City</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_85861_marketing_marketing_event</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-08 18:33:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>edde5c8c0f103200bd3588cce1050ecf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:05:40</sys_updated_on>
+            <value>London</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>San Jose</label>
+            <language>en</language>
+            <name>x_85861_marketing_marketing_event</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-08 18:33:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>69de5c8c0f103200bd3588cce1050ed0</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:05:45</sys_updated_on>
+            <value>San Jose</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Portland</label>
+            <language>en</language>
+            <name>x_85861_marketing_marketing_event</name>
+            <sequence>4</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-08 18:33:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e1de5c8c0f103200bd3588cce1050ed1</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:05:50</sys_updated_on>
+            <value>Portland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Sydney</label>
+            <language>en</language>
+            <name>x_85861_marketing_marketing_event</name>
+            <sequence>5</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-08 18:33:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>25de5c8c0f103200bd3588cce1050ede</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:05:55</sys_updated_on>
+            <value>Sydney</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Kyiv</label>
+            <language>en</language>
+            <name>x_85861_marketing_marketing_event</name>
+            <sequence>6</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-09 09:47:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4320b3800f103200bd3588cce1050e3a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:05:59</sys_updated_on>
+            <value>Kyiv</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>city</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New York</label>
+            <language>en</language>
+            <name>x_85861_marketing_marketing_event</name>
+            <sequence>500</sequence>
+            <sys_created_by>andrew.pishchulin</sys_created_by>
+            <sys_created_on>2017-02-02 18:26:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>56fc05000ff47200bd3588cce1050ef5</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:26:59</sys_updated_on>
+            <value>NY</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>city</element>
+            <name>x_85861_marketing_marketing_event</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-01-08 18:30:06</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>ed2e188c0f103200bd3588cce1050e51</sys_id>
+            <sys_mod_count>18</sys_mod_count>
+            <sys_name>city</sys_name>
+            <sys_package display_value="Marketing Event Application" source="x_85861_marketing">0007f4460f083200bd3588cce1050ed2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Event Application">0007f4460f083200bd3588cce1050ed2</sys_scope>
+            <sys_update_name>sys_choice_x_85861_marketing_marketing_event_city</sys_update_name>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:26:59</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

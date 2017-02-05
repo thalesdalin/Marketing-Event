@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="sys_data_source" relationship="30b740b80a0a0b260003010a3fd9c0eb" sys_domain="global" table="sys_transform_map" version="2" view="">
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>sys_transform_map</name>
+            <parent>sys_data_source</parent>
+            <position/>
+            <relationship display_value="Transforms">30b740b80a0a0b260003010a3fd9c0eb</relationship>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>andrew.pishchulin</sys_created_by>
+            <sys_created_on>2017-02-02 18:19:48</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1a8bc58c0fb47200bd3588cce1050eed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sys_transform_map</sys_name>
+            <sys_package display_value="Marketing Event Application" source="x_85861_marketing">0007f4460f083200bd3588cce1050ed2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Event Application">0007f4460f083200bd3588cce1050ed2</sys_scope>
+            <sys_update_name>sys_ui_list_sys_data_source_30b740b80a0a0b260003010a3fd9c0eb_null</sys_update_name>
+            <sys_updated_by>andrew.pishchulin</sys_updated_by>
+            <sys_updated_on>2017-02-02 18:19:48</sys_updated_on>
+            <sys_user display_value="Andrew Pishchulin">217036ac0f903200bd3588cce1050e0d</sys_user>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

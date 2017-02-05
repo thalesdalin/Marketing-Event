@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="Attendee" language="en" table="x_85861_marketing_attendee">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Attendee</label>
+            <language>en</language>
+            <name>x_85861_marketing_attendee</name>
+            <plural>Attendees</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>nikita.balesny</sys_created_by>
+            <sys_created_on>2017-01-31 13:51:09</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>93da75530fa83e00bd3588cce1050ec2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Attendee</sys_name>
+            <sys_package display_value="Marketing Event Application" source="x_85861_marketing">0007f4460f083200bd3588cce1050ed2</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Marketing Event Application">0007f4460f083200bd3588cce1050ed2</sys_scope>
+            <sys_update_name>sys_documentation_x_85861_marketing_attendee__en</sys_update_name>
+            <sys_updated_by>nikita.balesny</sys_updated_by>
+            <sys_updated_on>2017-01-31 13:51:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

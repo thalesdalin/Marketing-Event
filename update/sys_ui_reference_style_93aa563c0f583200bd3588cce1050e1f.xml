@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_reference_style">
+    <sys_ui_reference_style action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>x_85861_marketing_marketing_event</name>
+        <style>background-color:green;&#13;
+font-size:24px;&#13;
+color:white;</style>
+        <sys_class_name>sys_ui_reference_style</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-01-11 11:31:15</sys_created_on>
+        <sys_customer_update>true</sys_customer_update>
+        <sys_id>93aa563c0f583200bd3588cce1050e1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_85861_marketing_marketing_event</sys_name>
+        <sys_package display_value="Marketing Event Application" source="x_85861_marketing">0007f4460f083200bd3588cce1050ed2</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="Marketing Event Application">0007f4460f083200bd3588cce1050ed2</sys_scope>
+        <sys_update_name>sys_ui_reference_style_93aa563c0f583200bd3588cce1050e1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-01-11 11:31:15</sys_updated_on>
+    </sys_ui_reference_style>
+</record_update>
